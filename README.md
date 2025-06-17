@@ -1,5 +1,2 @@
-# my_prpject2
+İlk html deneyimim
 
-
-this is my first project bismillah
-Ya Allahgit add
